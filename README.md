@@ -8,6 +8,10 @@ npm install
 
 npm start
 
+后台启动
+
+json-server --watch db.json --port 3004
+
 ![登录](https://raw.githubusercontent.com/lgx0212/picture-material/main/react/news-web/login.png)
 
 ![首页](https://raw.githubusercontent.com/lgx0212/picture-material/main/react/news-web/home.png)
